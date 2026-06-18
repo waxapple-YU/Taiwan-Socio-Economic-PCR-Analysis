@@ -11,7 +11,7 @@ library(patchwork) # 專業併圖與版面配置
 library(ggrepel)   # 避免標籤重疊
 
 # 設定工作目錄 (請依據實際環境修改)
-folder_path <- "C:/Users/user/OneDrive/Desktop/Data.SC.final/upload"
+folder_path <- "資料集所在資料夾"
 
 
 # ==============================================================================
